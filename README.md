@@ -4,7 +4,7 @@ This project is a simple calculator built using Python. It is for learning purpo
 It performs basic arithmetic operations and includes automated unit testing
 using Python’s built-in `unittest` framework.
 
-* The project demonstrates:
+The project demonstrates:
 - Function-based programming
 - Error handling
 - Test-driven validation
@@ -53,6 +53,8 @@ The tests cover:
 - Negative numbers
 - Floating-point division
 - Division by zero exception handling
+
+---
 
 ## Made by:
 Md. Arham Ishtiyaque
