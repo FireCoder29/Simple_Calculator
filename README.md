@@ -4,7 +4,7 @@ This project is a simple calculator built using Python. It is for learning purpo
 It performs basic arithmetic operations and includes automated unit testing
 using Python’s built-in `unittest` framework.
 
-The project demonstrates:
+**The project demonstrates:**
 - Function-based programming
 - Error handling
 - Test-driven validation
@@ -26,20 +26,20 @@ The project demonstrates:
 
 ## 🧠 Calculator Functions
 
-### ➕ add(a, b)
-Returns the sum of two numbers.
+### ➕ Addition(a, b)
+        Returns the sum of two numbers.
 
-### ➖ subtract(a, b)
-Returns the difference of two numbers.
+### ➖ Subtract(a, b)
+        Returns the difference of two numbers.
 
-### ✖️ multiply(a, b)
-Returns the product of two numbers.
+### ✖️ Multiply(a, b)
+        Returns the product of two numbers.
 
-### ➗ divide(a, b)
-Returns the division result of two numbers.
+### ➗ Divide(a, b)
+        Returns the division result of two numbers.
 
-If the second argument is 0, it raises:
-ValueError("Cannot divide by zero")
+        If the second argument is 0, it raises:
+        ValueError("Cannot divide by zero")
 
 
 ---
