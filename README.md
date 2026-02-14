@@ -26,16 +26,16 @@ using Python’s built-in `unittest` framework.
 
 ## 🧠 Calculator Functions
 
-### ➕ Addition(a, b)
+### ➕ Addition
         Returns the sum of two numbers.
 
-### ➖ Subtract(a, b)
+### ➖ Subtract
         Returns the difference of two numbers.
 
-### ✖️ Multiply(a, b)
+### ✖️ Multiply
         Returns the product of two numbers.
 
-### ➗ Divide(a, b)
+### ➗ Divide
         Returns the division result of two numbers.
 
         If the second argument is 0, it raises:
